@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+
+.grad{
+border:2px double #9999ff;
+width: 400px;
+height: 250px;
+}
+#line-grid{
+background:linear-gradient(to left top, purple, pink);
+}
+#radial-grid{
+background:radial-gradient(circle farthest-corner, purple, pink);
+}

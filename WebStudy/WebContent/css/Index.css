@@ -1,0 +1,52 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+#index{
+	margin:10px auto;
+	border:1px solid #dddddd;
+	width:1200px;
+}
+
+#index #header{
+	width:80%;
+	height:300px;
+	background-image: url(../Img/1.jpeg);
+	position:relative;
+}
+
+#index #main_menu{
+	background-color : #1DAA04;
+	position:relative;
+	right:88px;
+	bottom:4px;
+}
+
+#index div{
+	border : 2px solid #ccccff;
+	padding : 20px;
+}
+
+#index #center #sub_menu{
+	width:400px;
+	float:left;
+}
+
+#index #center #middle{
+	width:400px;
+	float:left;
+}
+
+#index #center #guestbook{
+	width:400px;
+	float:left;
+}
+
+#index #footer {
+	clear : both;
+	font-size : 3em;
+	color : rgba(255, 0, 0, 0.1);
+}

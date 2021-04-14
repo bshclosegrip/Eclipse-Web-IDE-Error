@@ -1,0 +1,41 @@
+@charset "EUC-KR";
+
+#board{
+	border:2px double #9999ff;
+	width: 400px;
+	height: 250px;
+}
+
+#board>h1{
+	font-size:16px;
+}
+
+#board #btn_zone{
+	text-align: center;
+	margin-top: 10px;
+	border-top: 2px dotted #777;
+	padding-top: 20px;
+}
+
+#board form>label{
+	display: inline-block;
+	width: 80px;
+	text-align: left;
+}
+
+#board form>textarea{
+	width: 400px;
+	height: 300px;
+	margin-top: 3px;
+}
+
+#board form>input[name=subject]{
+	width: 400px;
+}
+
+/*---°Ë»ö---*/
+#board .find_zone{
+	display:include-block;
+	float:right;
+}
+
