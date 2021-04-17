@@ -5,7 +5,7 @@
 >retstall eclipse java/web enterprise 
 >restart eclipse
 
-# Conneting Comcat
+# Conneting Tomcat
 > 8.5
 > 
 
