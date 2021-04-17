@@ -1,5 +1,5 @@
 # Eclipse-Web-IDE-Error
-when instruct ecliipse web building
+>when instruct ecliipse web building
 
 # When Dynamic Web Project Folder can't be seen
 >retstall eclipse java/web enterprise 
