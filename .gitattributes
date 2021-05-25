@@ -2,3 +2,11 @@
 *.cpp linguist-detectable=false
 *.java linguist-detectable=false
 *.html linguist-detectable=true
+$ git branch issue2
+$ git branch issue3
+$ git checkout issue2
+Switched to branch 'issue2'
+$ git branch
+* issue2
+  issue3
+  master
